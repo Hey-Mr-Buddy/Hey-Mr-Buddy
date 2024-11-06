@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Hey-Mr-Buddy (Vikramaditya)
-- 👀 I’m interested in Project developments, which focuses on multisector disciplines
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, this is Vikramaditya
+- 👀 He is interested in Project developments, which focuses on multisector disciplines
+- 🌱 He is currently learning ...
+- 💞️ He is looking to collaborate on @Vikramaditya_ (Linkedin)
+- 📫 
 - ⚡ Fun fact: ... I like MineSweeper; Sports and Flute
 
 <!---
