@@ -28,11 +28,15 @@ My focus is on Full Stack Development, Machine Learning, Deep Learning, GenAI, A
 - Numpy, Pandas, PyTorch, OpenCV, etc, <br />
 - Popular ML Models(Decision Trees / SVM / XGBoost, etc.) and modern AI frameworks to turn ideas into production-ready systems.
 <br /><br />
+<hr />
 As the CEO and Co-Founder of VictoRizz, I built and scaled a sports-tech platform connecting athletes, academies, event organizers, and sponsors—serving 10K+ active users through a centralized digital ecosystem.
 
 
 ## 💻 I Eat:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) & Butter 😋🧈
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+<br />
+<br />
+& Butter 😋🧈
 
 
 
