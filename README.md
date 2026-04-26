@@ -1,8 +1,8 @@
-## Hi there 👋
+## Namaste 🙏
+
+<hr />
 
 <!--
-**Hey-Mr-Buddy/Hey-Mr-Buddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 💫 About Me:
+I am a Full Stack Web Developer and Machine Learning Engineer passionate about building scalable digital products that solve real-world problems. Currently pursuing B.Tech in Computer Science Engineering with a specialization in Artificial Intelligence and Machine Learning at Shri Vishwakarma Skill University (SVSU), Haryana, I focus on combining software engineering with intelligent systems.<br><br>My expertise lies in full-stack development, machine learning, deep learning, GenAI, Agents, and predictive solutions. I work with technologies like Python, JavaScript, TypeScript, MERN Stack, Next.js, OpenCV, Pytorch, and modern ML frameworks.<br><br>As the CEO and Co-Founder of VictoRizz, I helped architect and scale a sports-tech platform connecting athletes, academies, event organizers, and sponsors, serving 10K+ active users. I have also built projects like a Gesture-Based Desktop Cursor Control System using computer vision and hand landmark detection for real-time hands-free interaction.<br><br>Beyond development, I actively participate in hackathons, innovation competitions, and startup ecosystems, securing multiple first-place achievements at state and university levels. I believe great technology is built where engineering meets impact—and that is the kind of work I strive to create every day.
+
+
+# 💻 I Eat:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
+
+
